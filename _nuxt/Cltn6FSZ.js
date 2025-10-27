@@ -1,0 +1,1 @@
+const e='<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path fill-rule="evenodd" clip-rule="evenodd" d="M12 9.33329L11.06 8.39329L8.66667 10.78L8.66667 2.66663L7.33333 2.66663L7.33333 10.78L4.94 8.39329L4 9.33329L8 13.3333L12 9.33329Z" fill="#84818A"/>\n</svg>\n';export{e as default};

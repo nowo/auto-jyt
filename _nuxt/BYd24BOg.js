@@ -1,0 +1,1 @@
+const t='<svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M0.666626 6.26669H4.66663V19.3334H0.666626V6.26669ZM8.13329 0.666687H11.8666V19.3334H8.13329V0.666687ZM15.6 11.3334H19.3333V19.3334H15.6V11.3334Z" fill="#20C9AC"/>\n</svg>\n';export{t as default};
